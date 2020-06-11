@@ -1,1 +1,1 @@
-# McDonaldA_Web2_ExtraCredit
+# web2-html-template

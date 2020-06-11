@@ -1,0 +1,15 @@
+/* =============
+    Section 5
+============= */
+#section-5{
+    background-color: $lightmauve;
+    padding: 10px;
+    
+    div {
+        padding-left: 50px;
+
+        @include lg {
+            padding-right: 100px;
+        }
+    }
+}
